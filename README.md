@@ -77,8 +77,6 @@ pause
 ```
 
 
-
-
 ## Node.js playwright
 
 Playwright is a Node.js library that enables automation of web browsers. It supports Webkit, Chromium and Firefox.
@@ -103,3 +101,8 @@ npx playwright update
 # Potential future work
 - Making the script find the latest versions, including the Microsoft Visual C++ Redistributable for Visual Studio install.
 - Testing if more UI can be added, i.e, tabs like https://pd4d10.github.io/chrome-ui/ (Currently they will not work for almost all webpages due to using an iframe to load the page, which is blocked due to security reasons.)
+
+
+# Screenshot
+
+![image](https://github.com/rsxdalv/safari-on-windows/assets/6757283/d8708cc1-9ea6-4693-ad9c-3653bf6fe674)
